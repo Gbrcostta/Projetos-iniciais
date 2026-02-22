@@ -1,0 +1,26 @@
+{
+  "name": "projetos-iniciais",
+  "version": "1.0.0",
+  "description": "Iniciando na programação",
+  "homepage": "https://github.com/Gbrcostta/Projetos-iniciais#readme",
+  "bugs": {
+    "url": "https://github.com/Gbrcostta/Projetos-iniciais/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbrcostta/Projetos-iniciais.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
